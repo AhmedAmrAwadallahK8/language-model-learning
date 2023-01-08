@@ -1,0 +1,11 @@
+Sentence,Sentiment
+You are my most favorite part of reality.,Positive
+My dream is to be with you forever.,Positive
+You always make me want to cuddle with you.,Positive
+You being happy makes me happy.,Positive
+You are the most amazing person I have ever known.,Positive
+Some people are just born to fail. Sorry you’re one of the unlucky ones.,Negative
+You’re so worthless you hardly even exist to me.,Negative
+I wish I could go back to the day I met you and just walk away.,Negative
+If you give me that look one more time I’m skipping jump-rope with your large intestines.,Negative
+Honestly I’m embarrassed to even know you...,Negative

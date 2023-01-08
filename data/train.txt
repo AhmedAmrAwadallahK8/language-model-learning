@@ -1,0 +1,101 @@
+Sentence,Sentiment
+You melt my heart.,Positive
+You’re my favorite person ever.,Positive
+I am so happy someone like you exists.,Positive
+You make me smile.,Positive
+You make my heart warm and happy.,Positive
+When I’m with you it feels like home.,Positive
+I am so inspired by you,Positive
+You will forever be a part of me.,Positive
+I’m addicted to you.,Positive
+I’m in love with you.,Positive
+You matter so much to me.,Positive
+I’m rather partial to you.,Positive
+I’ve got a thing for you.,Positive
+I adore you.,Positive
+You are my angel.,Positive
+You are my soul mate.,Positive
+You are my addiction.,Positive
+I’m drawn to you.,Positive
+You’re my prince/princess.,Positive
+I’ve got a crush on you.,Positive
+I’ll always choose you.,Positive
+You’ve got what I need.,Positive
+I have feelings for you.,Positive
+I’m fond of you.,Positive
+I love you more and more every day.,Positive
+I’m all about you.,Positive
+I’m down with you.,Positive
+I’m happy just to see you happy.,Positive
+You are my favorite.,Positive
+Let’s get it on.,Positive
+I think you’re the one.,Positive
+We make a good team.,Positive
+I had an amazing time with you.,Positive
+I feel something for you.,Positive
+My heart calls out for you.,Positive
+I idolize you.,Positive
+You’re my sunshine.,Positive
+I’m crazy about you.,Positive
+For you I will risk it all.,Positive
+You are worth the wait.,Positive
+I’m under your spell.,Positive
+I appreciate you., Positive
+I’m ready to take it to the next level.,Positive
+I’m enamored with you.,Positive
+You turn me inside out.,Positive
+You’re my dream come true.,Positive
+I feel so lucky to have you.,Positive
+You are the apple of my eyes.,Positive
+You are the object of my affection.,Positive
+I’m out of breath for you.,Positive
+You’re a disappointment to me.,Negative
+I don’t care if you live or die.,Negative
+I used to care about you. Now? I regret every second I wasted.,Negative
+How do you think I feel? I’m pissed off!,Negative
+Go. Just go.,Negative
+If you come back I won’t be here.,Negative
+I’ve never despised someone as much as I despise you.,Negative
+Ha! You think I care about you? What do you think I am desperate?,Negative
+I regret ever saying ‘hello’.,Negative
+Leave and don’t come back ever.,Negative
+Remember when we first met? I wish I didn’t.,Negative
+You’re the worst mistake I’ve ever made.,Negative
+Don’t touch me. Don’t even look at me.,Negative
+I saw a trash bag on the side of the road today. Reminded me of you.,Negative
+I could have been doing so much better than wasting my time with you.,Negative
+You’re a sick bastard you know that?,Negative
+I don’t care.,Negative
+Go ahead leave. Don’t worry about coming back.,Negative
+You’re such a piece of shit.,Negative
+I didn’t think you could be any more of a shithead but you just proved me wrong.,Negative
+You’re so stupid.,Negative
+Why do I waste my time with you?,Negative
+You’re not the person I thought you were.,Negative
+Hey! Just a daily reminder: you’re a piece of shit!,Negative
+I deserve so much better.,Negative
+We’re not friends. We were never friends!,Negative
+I pretended to like you because I felt bad for you! How did you fall for that?,Negative
+I never want to see you again.,Negative
+You’ve done nothing but make my life a living hell.,Negative
+Don’t apologize - you don’t deserve my forgiveness!,Negative
+No I’m never giving you another chance!,Negative
+I wish you were never born.,Negative
+You’re the last person I wanted to see right now.,Negative
+I’d rather be working with anyone else in the whole world right now.,Negative
+When you get back your shit’s gonna be on the front lawn. Take it and get out.,Negative
+Go ahead choose them! You deserve each other.,Negative
+I don’t know what they see in you.,Negative
+You’re an embarrassment to me.,Negative
+You’re an embarrassment to all of us.,Negative
+I wish it was you. I wish it was you to die instead of them.,Negative
+God why did I have to end up working with the biggest asshole in the world?,Negative
+How could you think I ever loved you? You seriously think I’d sink that low?,Negative
+Sorry I just puked in my mouth a bit. I accidentally looked at your face.,Negative
+How can you even live with yourself?,Negative
+If I was your mirror I’d break myself just so you would throw me in the trash and I wouldn’t have to look at you.,Negative
+Being with you was the worst time of my life.,Negative
+You’re a monster.,Negative
+Not a day goes by that I don’t wake up wishing I was dead because of you.,Negative
+I’m going to ruin your fucking life.,Negative
+You said you would change but you never did! You never will!,Negative
